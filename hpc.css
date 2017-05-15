@@ -1,0 +1,154 @@
+body {
+    margin:0;
+    background-color: #610b0b;
+}
+
+li{
+
+    position:relative;
+}
+
+#container{
+}
+
+#navigation{
+    height:40px;
+    width:100%;
+    background-color: #610b0b;
+    color:#FFBF00;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+#dumbidea{
+    position:relative;
+
+
+}
+#som_bar{
+
+    height:350px;
+    width:100%;
+    background-color: #FFBF00;
+}
+
+.fixedwidth{
+    width:1250px;
+    margin:0 auto;
+}
+
+#nav_image{
+padding-top: 5px;
+margin-left: 5px;
+float:left;
+padding-right: 10px;
+border-right: 1px solid #FFBF00;
+}
+
+#som{
+font-family: 'Segoe UI', Tahoma, sans-serif;
+margin-left: 1px;
+font-size:30px;
+font-weight:bold;
+color:#610b0b;
+float:left;
+}
+
+.break{
+    clear:both;
+}
+
+#signin{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 8px;
+    font-weight:bold;
+    border-right: 1px solid #FFBF00;
+    float:left;
+    padding-right:80px;
+}
+
+#signin img{
+    position:relative;
+    top:5px;
+    padding-left: 4px;
+}
+
+#top_menu{
+    float:left;
+}
+
+#top_menu ul{
+margin:0;
+padding-left:0;
+}
+
+#top_menu li{
+    list-style: none;
+    font-weight:bold;
+    border-right: 1px solid #FFBF00;
+    margin-top:0px;
+    padding:8px 20px 10px 20px;
+    float:left;
+}
+
+#topsearch{
+    font-weight:bold;
+    float:left;
+    padding-left:8px;
+    padding-top:6px;
+
+}
+
+#topsearch input{
+margin-top:1px;
+margin-left:10px;
+padding-left:8px;
+border-style: none;
+padding-top:8px;
+font-size:0.97em;
+font-weight: bold;
+}
+
+#som_bar p{
+    margin:0px;
+    padding:0px;
+    font-size:38px;
+
+}
+
+#somlist{
+    float:left;
+    background-color: 
+}
+
+#somlist ul{
+margin-left:155px;
+padding:0;
+list-style-type: none;
+padding-bottom:35px;
+}
+
+#somlist li{
+    padding: 5px 5px 5px 5px;
+    float:left;
+}
+
+#content {
+font-family: 'Segoe UI', Tahoma, sans-serif;
+font-size:72px;
+font-weight:bold;
+color:white;
+text-align:center;
+background-color: #610b0b;
+float:left;
+width:100%;
+}
+
+#contentleft{
+
+float:left;
+}
+
+#contentright {
+
+float:left;
+}
